@@ -82,7 +82,7 @@ learners:
 instructors: 
 
 # Learner Profiles
-profiles: This lesson is aimed at users who have used an HPC before and needs an instroduction to Comet specifics.
+# profiles: This lesson is aimed at users who have used an HPC before and needs an instroduction to Comet specifics.
 
 # Customisation ---------------------------------------------
 #
