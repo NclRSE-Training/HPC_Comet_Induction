@@ -60,7 +60,8 @@ contact: 'training.researchcomputing@newcastle.ac.uk' # FIXME
 # instructors:
 # - instructor-notes.md
 #
-# profiles:
+profiles:
+- learner-profiles.md
 # - one-learner.md
 # - another-learner.md
 
