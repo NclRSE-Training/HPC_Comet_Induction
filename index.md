@@ -2,8 +2,8 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+An introduction to the use of the Comet HPC. Attendees of this lesson will need to have an account on Comet.
 
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+
 

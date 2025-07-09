@@ -15,16 +15,16 @@
 carpentry: 'incubator'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
+carpentry_description: 'An induction to the use of the Comet HPC for experienced HPC users.'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Comet HPC Induction' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2025-07-06 # FIXME
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'HPC, induction' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -34,13 +34,13 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md' # FIXME
+source: 'https://github.com/carpentries/HPC_Comet_Induction' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'training.researchcomputing@newcastle.ac.uk' # FIXME
 
 # Navigation ------------------------------------------------
 #
@@ -60,13 +60,20 @@ contact: 'team@carpentries.org' # FIXME
 # instructors:
 # - instructor-notes.md
 #
-# profiles:
+profiles:
+- learner-profiles.md
 # - one-learner.md
 # - another-learner.md
 
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- login.md
+- storing_files.md
+- moving_files_to_RDW.md
+- gitHub.md
+- partitions.md
+- documentation.md
 
 # Information for Learners
 learners: 
@@ -75,7 +82,7 @@ learners:
 instructors: 
 
 # Learner Profiles
-profiles: 
+# profiles: This lesson is aimed at users who have used an HPC before and needs an instroduction to Comet specifics.
 
 # Customisation ---------------------------------------------
 #
