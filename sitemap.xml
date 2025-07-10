@@ -1,45 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/documentation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/gitHub.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/documentation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/gitHub.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/images.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/login.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/moving_files_to_RDW.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/partitions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor/storing_files.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/login.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/moving_files_to_RDW.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/partitions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/HPC_Comet_Induction/storing_files.html</loc>
   </url>
 </urlset>
